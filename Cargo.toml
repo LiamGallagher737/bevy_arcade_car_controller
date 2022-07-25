@@ -1,5 +1,6 @@
 [package]
 name = "bevy_arcade_car_controller"
+description = "A simple arcade car controller for Bevy"
 version = "0.1.0"
 edition = "2021"
 license = "MIT OR Apache-2.0"
