@@ -11,7 +11,7 @@ A simple arcade car controller for [Bevy](https://bevyengine.org/)
 `Cargo.toml`
 ```toml
 bevy ="0.7"
-bevy_arcade_car_controller = { git = "https://github.com/LiamGallagher737/bevy_arcade_car_controller" }
+bevy_arcade_car_controller = "0.1.0"
 heron = { version = "3.1", features = ["3d"] }
 ```
 
