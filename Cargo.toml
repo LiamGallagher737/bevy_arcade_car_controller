@@ -9,3 +9,5 @@ repository = "https://github.com/LiamGallagher737/bevy_arcade_car_controller"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+bevy = "0.7"
+heron = { version = "3.1", features = ["3d"] }
